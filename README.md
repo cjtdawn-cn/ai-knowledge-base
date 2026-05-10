@@ -54,3 +54,7 @@
 MIT © [Cao Jiangtao](https://github.com/cjtdawn-cn)
 
 > 每日更新 · 欢迎 Star ⭐
+
+---
+
+> 💡 更多AI工具和评测 → [AI Toolkit Zone](https://cjtdawn-cn.github.io/ai-toolkit-zone/)
