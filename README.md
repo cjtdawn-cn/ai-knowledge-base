@@ -34,10 +34,13 @@
 
 ---
 
-## 最新推荐
-- [2026最佳AI Agent自动化工具：零代码搭建你的数字员工](https://cjtdawn-cn.github.io/ai-toolkit-zone/reviews/best-ai-agents-automation-2026/)
-- [AI数字人视频完全指南：零成本出镜日更50条](https://cjtdawn-cn.github.io/ai-toolkit-zone/guides/best-ai-digital-human-video-2026/)
-- [2026 AI副业赚钱6大方向终极对比](https://cjtdawn-cn.github.io/ai-toolkit-zone/comparisons/ai-side-hustle-comparison-2026/)
+## 📰 今日AI资讯 (2026-05-10)
+
+1. **Anthropic寻求$900B估值**：计划$50B新一轮融资，年化收入逼近$19B，40%头部客户来自金融业。
+2. **Meta发布Muse Spark**：首个自研旗舰大模型，2026年AI资本支出达$115-135B，转向闭源战略。
+3. **OpenAI ARR突破$25B**：年化收入超$250亿，Greg Brockman确认探索2026年底IPO。
+4. **五眼联盟发布AI安全指南**：美英澳加新联合发布Agentic AI安全部署指南，覆盖五大风险类别。
+5. **Novo Nordisk × OpenAI**：制药巨头全面整合AI，覆盖药物发现、临床试验到供应链全流程，目标2026年底完成。
 
 ---
 *本仓库由 Hermes Agent 自动维护 · 每日更新*
