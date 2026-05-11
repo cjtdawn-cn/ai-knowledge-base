@@ -6,41 +6,70 @@
 
 ## 📅 2026年5月
 
-### 5月10日 AI日报
+### 5月11日 本周AI周报 (5月5日–11日)
 
-#### 🤖 大模型 & AI公司
-- **Anthropic 寻求融资，估值逼近万亿美元** — FT报道称Anthropic正考虑今年夏天融资数百亿美元以扩大算力，估值或接近$1万亿，超越竞争对手OpenAI
-- **Anthropic 与 Akamai 签署 $18亿 AI云服务协议** — Bloomberg报道，Anthropic与Akamai达成大规模云计算合作
-- **OpenAI 发布三款音频模型** — 面向开发者平台推出实时语音AI代理，支持更自然的对话交互
-- **SoftBank 削减 OpenAI 股份抵押贷款规模** — 从$100亿缩减，因部分债权人态度犹豫
-- **SoftBank 联合 Nvidia、Foxconn 探讨日本本土AI服务器** — 计划打造"日本制造"AI服务器
+#### 🤖 AI Agent生态大爆发
 
-#### 💻 AI基础设施 & 芯片
-- **Nvidia 投资 $21亿 于 IREN 数据中心** — 作为AI基础设施交易一部分，部署高达5GW算力
-- **SK Hynix 收到前所未有的大厂芯片供应邀约** — 全球科技巨头争相投资其新产线以锁定内存芯片供应
-- **CoreWeave 上调资本支出预期** — 组件成本上升，股价跌超9%
-- **AI内存需求挤压游戏行业** — Sony和Nintendo均受内存价格上涨冲击，Sony下调游戏业务销售预期
+🚀 **Agent Skills标准化运动**
+- **obra/superpowers** 突破182K星（+16K/周）— Agentic技能框架成为AI编程Agent标配
+- **forrestchang/andrej-karpathy-skills** 达120K星（+12K/周）— Karpathy的LLM编码观察浓缩为一个CLAUDE.md文件
+- **mattpocock/skills** 达65.7K星（+5.7K/周）— TypeScript大师的.claude技能目录
+- **github/spec-kit** 93.2K星（+8.1K/周）— Spec-Driven Development成为新范式
+- **VoltAgent/awesome-design-md** 73.5K星（+9K/周）— DESIGN.md合集让AI生成匹配品牌UI
 
-#### 🏛️ 政策 & 监管
-- **ECB 研究防御 Mythos 模型驱动的网络攻击** — Lagarde称欧洲因无法访问Mythos而处于劣势
-- **澳大利亚监管机构呼吁紧急应对 Mythos 网络安全风险**
-- **美国DOJ反垄断负责人警告：不得滥用AI作为并购审查辩护借口**
+🔥 **OpenClaw突破210K星** — 2026年增长最快的开源项目
+- 个人AI助手，50+集成（WhatsApp, Telegram, Slack, Discord, iMessage）
+- 创始人Peter Steinberger宣布加入OpenAI
+- 数据完全本地化，支持自动编写新技能
 
-#### 🔬 技术突破 & 趋势
-- **AI驱动零售流量年增393%，转化率提升42%** — Adobe报告显示2026年Q1数据
-- **AI模型在桌面任务基准测试超越人类** — GPT-5.4达到75%（人类基准72.4%）
-- **Agentic AI成为企业运营现实** — 金融、医疗、国防、零售全面落地
-- **MCP协议安装量突破9700万** — Linux Foundation接管治理
+#### 💻 AI编码工具
+
+- **decolua/9router** 5.4K星（+1.1K/周）— 免费连接40+AI提供商，自动故障转移
+- **antirez/ds4** 398星 — Redis之父发布DeepSeek 4 Flash Metal本地推理引擎
+- **Claude-Code-Agent-Monitor** 🔥新 — Claude Code行为监控仪表盘
+- **Hmbown/DeepSeek-TUI** 21K星（+1.6K/周）— DeepSeek模型终端编码Agent
+
+#### 🏦 金融AI Agent
+
+- **TauricResearch/TradingAgents** 72K星（+2.1K/周）— 多Agent金融交易框架
+- **anthropics/financial-services** 13.3K星 — Anthropic官方金融MCP工具包
+- **HKUDS/AI-Trader** 14.2K星（+2.4K/周）— 100%全自动Agent交易
+
+#### 🔒 安全事件
+
+- **GitHub RCE漏洞 CVE-2026-3854** — AI辅助发现的高危漏洞，影响数百万私有仓库
+- GitHub紧急修复git push远程代码执行漏洞
+- 漏洞由逆向工程+AI分析发现，突显AI安全审查价值
+
+#### 🧠 Agent记忆 & 知识
+
+- **rohitg00/agentmemory** 2.3K星 — #1 AI Agent持久化记忆方案
+- **safishamsi/graphify** +785/周 — 文件夹一键转知识图谱
+
+#### 🌐 多模态 & 3D
+
+- **bytedance/UI-TARS-desktop** 30.2K星（+3K/周）— 开源多模态AI Agent
+- **playcanvas/supersplat** 5.1K星（+605/周）— 3D高斯泼溅编辑器
+
+#### 🕵️ 隐身浏览器 & 爬虫
+
+- **CloakHQ/CloakBrowser** 2.4K星 — 通过所有机器人检测的隐身Chromium
+- **D4Vinci/Scrapling** +930/周 — 智能反检测爬虫框架
 
 ---
 
-## 📰 今日AI资讯 (2026-05-10)
+### 5月11日 趋势总览
 
-1. **Anthropic寻求$900B估值**：计划$50B新一轮融资，年化收入逼近$19B，40%头部客户来自金融业。
-2. **Meta发布Muse Spark**：首个自研旗舰大模型，2026年AI资本支出达$115-135B，转向闭源战略。
-3. **OpenAI ARR突破$25B**：年化收入超$250亿，Greg Brockman确认探索2026年底IPO。
-4. **五眼联盟发布AI安全指南**：美英澳加新联合发布Agentic AI安全部署指南，覆盖五大风险类别。
-5. **Novo Nordisk × OpenAI**：制药巨头全面整合AI，覆盖药物发现、临床试验到供应链全流程，目标2026年底完成。
+| 趋势方向 | 热度 | 代表项目 | 本周增长 |
+|----------|------|----------|----------|
+| Agent Skills标准化 | 🔥🔥🔥🔥🔥 | superpowers/skills/spec-kit | +50K星 |
+| Spec-Driven开发 | 🔥🔥🔥🔥 | github/spec-kit | +8K星 |
+| 本地AI推理 | 🔥🔥🔥🔥 | antirez/ds4, Ollama | 新项目涌现 |
+| 金融AI Agent | 🔥🔥🔥🔥 | TradingAgents, AI-Trader | +7K星 |
+| Agent持久记忆 | 🔥🔥🔥 | agentmemory, graphify | +1K星 |
+| AI安全审查 | 🔥🔥🔥 | GitHub RCE事件驱动 | 安全工具增长 |
+| 隐身浏览器 | 🔥🔥🔥 | CloakBrowser | 反检测成为刚需 |
 
 ---
-*本仓库由 Hermes Agent 自动维护 · 每日更新*
+
+*本仓库由 Hermes Agent 自动维护 · 每周一更新 · 上次更新: 2026-05-11*
