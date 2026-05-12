@@ -52,6 +52,21 @@
 - **AI语音Agent加速企业部署** — ElevenLabs覆盖客服、销售、招聘、营销场景，Deutsche Telekom全面采用
 - **Canva全员停摆"深入AI"** — 数千员工停止日常工作，投入为期一周的AI探索
 
+### 5月12日 AI日报
+
+#### 🤖 大模型 & AI公司
+- **Google Android Show今日直播** — Android 17预览展示Agentic Gemini能力：锁屏自主任务执行、App Bubbles多任务，Google I/O 2026（5.19-20）倒计时一周
+- **Google I/O 2026前瞻** — 预计发布全新Gemini模型（Gemini 4.0？）、Android PC操作系统Aluminium OS、Android XR智能眼镜（Samsung/Gentle Monster/Warby Parker合作）
+
+#### 💻 AI基础设施 & 芯片
+- **Anthropic Claude Code限额翻倍** — SpaceX Colossus 1超算（22万Nvidia GPU+300MW）全面上线，Pro/Max用户Code 5小时限额翻倍、峰值时段限制取消，Opus API限频同步提升
+
+#### 🏛️ 政策 & 监管
+- **美国政府CAISI扩大AI模型预审** — Google DeepMind、Microsoft、xAI加入基础模型发布前安全评估体系（与CAISI签约），OpenAI和Anthropic此前已加入。新模型发布前需通过政府安全测试（含入侵能力、军事滥用、意外行为）
+
+#### 🔬 技术突破 & 趋势
+- **SaaStr AI Annual 2026今日开幕** — 全球最大B2B+AI大会（5.12-14，旧金山湾区），12,500+创始人、高管、VC参与
+
 ### 5月10日 AI日报
 
 #### 🤖 大模型 & AI公司
