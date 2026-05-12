@@ -6,6 +6,29 @@
 
 ## 📅 2026年5月
 
+### 5月12日 AI日报
+
+#### 🤖 AI模型与产品
+- **Google Android Show今日直播** — 5月12日10am PT，抢先预览Android 17与Gemini AI深度融合：锁屏Agentic任务执行、App Bubbles多任务、Wear OS更新
+- **Google I/O 2026倒计时7天（5月19–20日）** — 预计发布Gemini 4.0、Aluminium OS（Android PC系统）、Android XR智能眼镜（与Samsung/Gentle Monster/Warby Parker合作，无屏版2026年确认）
+- **OpenAI推出"Deployco"新业务部门** — CRO Denise Dresser在CNBC透露，专注企业部署与竞争壁垒强化
+- **OpenAI发布ChatGPT Trusted Contact安全功能** — 用户可指定紧急联系人，AI检测自伤风险后人工审核一小时内通知，不共享聊天内容
+
+#### 💻 芯片与基础设施
+- **Anthropic计算版图全景** — SpaceX Colossus 1 (300MW已上线) | Amazon (近1GW 2026年底) | Google+Broadcom (5GW, 2027起) | Microsoft+NVIDIA Azure ($300亿) | Fluidstack ($500亿)
+- **Claude Pro/Max用户已享双倍Code速率限制** — Colossus 1算力直接惠及付费用户
+- **Nvidia投资$40B** — 持续加码AI基础设施，IREN数据中心$21亿部署5GW
+
+#### 🏛️ 政策与治理
+- **美国政府AI模型预审正式化** — CAISI（商务部AI标准与创新中心）与Google DeepMind、Microsoft、xAI签约，新模型发布前须通过网络安全、军事滥用、生物安全评估
+- **五角大楼国防AI协议** — 与OpenAI、Google、SpaceX、Nvidia、Microsoft、AWS等7家签约，Anthropic因拒绝无条件军事用途被排除
+- **Oracle裁员** — AI自动化加速企业人力资源调整，科技行业裁员潮持续
+
+#### 🌐 行业趋势
+- **$12B AI创业公司CEO预测** — OpenEvidence创始人Daniel Nadler在Nvidia GTC 2026表示，未来科技巨头可能仅需<100名员工
+- **Block (Square)裁员40%** — CFO/COO称AI生产力提升驱动的两年转型计划
+- **AI驱动零售转化率↑42%** — Adobe 2026 Q1报告，AI驱动流量年增393%
+
 ### 5月11日 AI日报
 
 #### 🤖 AI模型与产品
