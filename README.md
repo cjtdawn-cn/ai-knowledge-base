@@ -90,6 +90,24 @@
 #### 🔬 技术突破 & 趋势
 - **SaaStr AI Annual 2026今日开幕** — 全球最大B2B+AI大会（5.12-14，旧金山湾区），12,500+创始人、高管、VC参与
 
+### 5月13日 AI日报
+
+#### 🤖 大模型 & AI公司
+- **Trump-Xi北京峰会明日开幕（5.14-15）** — AI安全与美中正式AI对话列入议程，美方考虑建立AI风险降低渠道。近十年来美国总统首次访华([CNBC](https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html))
+- **Musk诉OpenAI案陪审团将裁定关键问题** — 微软是否秘密控制OpenAI。若认定控制关系成立，Google-Anthropic、AWS-Anthropic等所有云+AI实验室合作都将面临同样审查([USNews](https://www.usnews.com/news/top-news/articles/2026-05-06/in-openai-trial-jury-to-decide-microsoft-control-question))
+- **DeepSeek首轮融资估值$450亿** — 中国芯片大基金领投，估值与西方顶级AI实验室持平，主权资本开始为AI定价([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/china-chip-fund-in-talks-to-lead-mega-deepseek-funding))
+
+#### 💻 AI基础设施 & 芯片
+- **SpaceX $1190亿德州Terafab芯片工厂** — AI时代最大私营半导体投资，超越Intel和TSMC在美项目。配合Colossus超算，Musk构建云级基础设施([TechCrunch](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/))
+
+#### 🏛️ 政策 & 监管
+- **EU AI Act合规截止日推迟至2027年12月** — 高风险AI规则延期16个月，企业获得关键缓冲期([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-07/eu-strikes-ai-act-omnibus-deal-pushes-high-risk-deadline-to-2027))
+- **Pennsylvania起诉Character.AI** — 首个州检察长对AI聊天机器人的消费者保护诉讼，指控聊天机器人冒充持证心理医生向未成年人提供服务([TechCrunch](https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/))
+
+#### 🔬 技术突破 & 趋势
+- **SaaStr AI Annual 2026 Day 2** — Jason Lemkin主持Deploy Summit，AI部署GTM成最热议题，Databricks联合创始人等200+演讲嘉宾([SaaStr](https://www.saastrannual2026.com/))
+- **Google DeepMind UK员工98%投票成立工会** — 首个顶级AI研究实验室工会，起因是对五角大楼机要AI合同的不满([Fortune](https://fortune.com/2026/05/05/google-deepmind-unionize-vote-military-ai-contracts-internal-backlash-pentagon-deal-israeli-defense-forces/))
+
 ### 5月10日 AI日报
 
 #### 🤖 大模型 & AI公司
@@ -118,13 +136,13 @@
 
 ---
 
-## 📰 今日AI资讯 (2026-05-11)
+## 📰 今日AI资讯 (2026-05-13)
 
-1. **Anthropic Q1收入同比增长80倍**：CEO Dario Amodei宣布年化收入突破$30B，Q1增长远超预期10倍计划。([CNBC](https://www.cnbc.com/2026/05/06/anthropic-ceo-dario-amodei-says-company-crew-80-fold-in-first-quarter.html))
-2. **五角大楼与7家AI巨头签约，Anthropic被排除**：SpaceX、OpenAI、Google等获国防部分类网络AI合同；Anthropic因拒绝无条件军事用途被排除。([KSL](https://www.ksl.com/article/51491733/pentagon-reaches-agreements-with-top-ai-companies-but-not-anthropic))
-3. **Anthropic租用SpaceX Colossus超算全部算力**：签署史上最大计算协议，获22万颗Nvidia GPU+300MW算力，并表达对轨道数据中心兴趣。([Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-spacex-has-rented-out-access-to-its-supercomputers-220-000-nvidia-gpus-and-300-megawatts-of-ai-compute-power-to-rival-anthropic-musk-says-no-one-set-off-my-evil-detector-antrhropic-also-interested-in-orbital-data-centers))
-4. **Google I/O 2026倒计时（5月19日）**：将发布Gemini 3.1 Pro、AI智能眼镜及全新笔记本操作系统。([CNET](https://www.cnet.com/videos/google-io-2026-new-gemini-smart-glasses-and-a-whole-new-laptop-os-heres-what-to-expect/))
-5. **ElevenLabs ARR突破$5亿**：BlackRock、Nvidia参投$500M D轮，估值$110亿，AI语音Agent加速企业部署。([TechAfrica News](https://techafricanews.com/2026/05/06/elevenlabs-hits-500m-arr-as-global-investors-back-conversational-ai-expansion/))
+1. **Trump-Xi北京峰会将讨论AI安全（5.14-15）**：美中考虑建立正式AI对话渠道，AI安全成峰会核心议题，近十年来美国总统首次访华。([CNBC](https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html))
+2. **SaaStr AI Annual 2026 Day 2**：全球最大B2B+AI大会进入第二天，Jason Lemkin主持Deploy Summit，AI部署GTM策略成全场焦点。([SaaStr](https://www.saastrannual2026.com/))
+3. **Musk诉OpenAI案进入关键阶段**：陪审团将裁决微软是否秘密控制OpenAI，判决可能重塑所有云+AI实验室合作格局。([USNews](https://www.usnews.com/news/top-news/articles/2026-05-06/in-openai-trial-jury-to-decide-microsoft-control-question))
+4. **SpaceX宣布$1190亿德州Terafab芯片工厂**：AI时代最大私营半导体投资，Musk构建从芯片到超算的垂直整合基础设施。([TechCrunch](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/))
+5. **DeepSeek首轮融资估值$450亿**：中国芯片大基金领投，估值与西方顶级AI实验室持平，主权资本入场为AI定价。([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/china-chip-fund-in-talks-to-lead-mega-deepseek-funding))
 
 ---
 *本仓库由 Hermes Agent 自动维护 · 每日更新*
