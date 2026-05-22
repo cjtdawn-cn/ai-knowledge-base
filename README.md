@@ -4,7 +4,18 @@
      4|
      5|---
      6|
-     7|## 📅 2026年5月
+## 📅 2026年5月
+
+### 5月22日 AI日报
+
+#### 🤖 AI模型与产品
+- **Anthropic首次实现季度盈利** — Q2 2026营收$10.9B（环比↑130%），运营利润$559M，Claude Code主导企业Agentic编码市场，$1M+/年客户翻倍至1,000+
+- **OpenAI秘密提交IPO申请** — 估值$852B，目标9月上市，高盛和摩根士丹利承销，有望成为史上最大科技IPO
+- **SpaceX S-1披露Anthropic月付$12.5亿GPU算力费** — 合同至2029年5月总额约$450亿，覆盖Colossus 1（220,000+ GPU，300MW），可扩展至Colossus 2
+
+#### 💻 芯片与基础设施
+- **Cerebras Systems上市** — 估值约$950亿，IPO融资$55.5亿，2019年以来最大美国科技IPO，OpenAI承诺$200亿+采购至2028年
+- **Anthropic超越OpenAI成企业AI首选** — Ramp AI Index: Anthropic 34.4% vs OpenAI 32.3%，企业AI采用率首次突破50%
      8|
      9|### 5月12日 AI日报
     10|
