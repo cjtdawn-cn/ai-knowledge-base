@@ -90,7 +90,33 @@
     90|#### 🔬 技术突破 & 趋势
     91|- **SaaStr AI Annual 2026今日开幕** — 全球最大B2B+AI大会（5.12-14，旧金山湾区），12,500+创始人、高管、VC参与
     92|
-    93|### 5月13日 AI日报
+    93|### 5月22日 AI日报
+
+#### 🤖 大模型 & AI公司
+- **Google I/O 2026 重磅发布（5月19–20日）** — Sundar Pichai称AI处于"hyper progress"阶段，发布Gemini Omni（全模态生成模型，支持视频/音频/文本全输入输出）、Gemini 3.5 Flash（高效模型）、Gemini Spark（常驻AI Agent框架，对标OpenClaw），推出$100/月AI Ultra计划（[PCMag](https://www.pcmag.com/news/google-io-2026-live-everything-announced-gemini-omni-search-android-xr)）（[The Verge](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini)）（[WIRED](https://www.wired.com/story/everything-google-announced-at-google-io-2026)）
+- **Google搜索AI化** — "Intelligent Search Box"全球上线，AI Mode可授权Gemini访问Gmail/Photos/Calendar，搜索结果内置AI Agent（[Engadget](https://www.engadget.com/2176896/everything-google-announced-io-2026-gemini-omni-spark)）
+- **Google智能眼镜发布** — Samsung合作Android XR "Intelligent Eyewear" 2026秋季上市，Gemini深度集成（[Tom's Guide](https://www.tomsguide.com/computing/smart-glasses/forget-meta-ray-bans-samsungs-intelligent-eyewear-glasses-just-launched-at-google-i-o-and-theyre-coming-this-fall)）
+- **Andrej Karpathy加入Anthropic** — 前OpenAI/Tesla AI负责人加入Anthropic，业界震动
+- **Musk诉OpenAI案陪审团裁定** — 陪审团裁决Musk败诉，微软未被认定秘密控制OpenAI
+- **Cerebras IPO募资$55亿** — 估值$950亿，AI芯片公司史上最大IPO之一
+- **Meta裁员启动** — Zuckerberg押注AI，2026年AI基础设施投入$1620–1690亿
+
+#### 🖥️ 产品 & 平台
+- **Anti-Gravity 2.0** — Google发布Agent优先操作系统，深度整合Gemini
+- **YouTube Shorts Remix** — 基于Gemini Omni的视频AI重混功能，可替换风格或将用户插入他人视频（[The Verge](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai)）
+- **SynthID扩展** — 内容凭证（C2PA）和水印验证功能将进入Chrome和Google搜索（[The Verge](https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion)）
+- **Android 17 & Android Auto** — Gemini深度集成，Android Auto史上最大改版：3D地图、视频支持、多屏自适应
+- **Notebook LM & Gemini for Science** — Demis Hassabis展示AI科学应用新进展
+- **Lenovo创26年新高** — AI增长驱动股价飙升
+
+#### 🏛️ 政策与产业
+- **FOMC会议纪要（5月20日）** — 鹰派基调，强化higher-for-longer利率预期，美10年期国债收益率突破4.67%
+- **CNBC：廉价AI可能破坏OpenAI和Anthropic的IPO计划**
+- **Anthropic企业采用超越OpenAI** — 4月数据显示Anthropic在企业商业采用中首次超过OpenAI（[LinkedIn](https://www.linkedin.com/pulse/ai-news-highlights-from-15th-may-2026-ai-insiders-news-exn6e)）
+- **Penn研究：混合光-物质粒子加速AI计算** — 大幅降低能耗（[ScienceDaily](https://www.sciencedaily.com/news/computers_math/artificial_intelligence)）
+- **MOSS论文** — 自主Agent系统通过源码级重写实现自我进化（arXiv:2605.22794, 5月22日）
+
+### 5月13日 AI日报
 
 #### 🤖 大模型 & AI公司
 - **Trump-Xi北京峰会明日开幕（5.14-15）** — AI安全与美中正式AI对话列入议程，美方考虑建立AI风险降低渠道。近十年来美国总统首次访华([CNBC](https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html))
