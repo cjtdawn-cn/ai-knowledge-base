@@ -6,6 +6,21 @@
      6|
 ## 📅 2026年5月
 
+### 5月26日 AI日报
+
+#### 🤖 AI模型与产品
+- **Anthropic $300亿融资即将完成** — $900B估值超越OpenAI，红杉/Dragoneer/Altimeter/Greenoaks联合领投约$80亿，Q2营收$10.9B（环比↑130%），首次实现季度盈利$559M
+- **教皇利奥十四世发布首份AI通谕《Magnifica Humanitas》** — 5月25日发布，主题为「在AI时代守护人类尊严」，Anthropic联创Christopher Olah出席发布仪式，面向全球14亿天主教徒的AI伦理声明
+- **OpenAI秘密提交IPO申请** — 估值$852B，目标9月上市，马斯克诉讼被驳回扫清障碍，高盛和摩根士丹利承销
+
+#### 🛡️ 安全与基础设施
+- **AI黑客能力急剧提升引发行业安全危机** — 英国AI安全研究所(UK AISI)最新证据显示AI模型网络攻击能力大幅增强，从单模型风险升级为全行业安全问题
+- **Stable Audio 3.0开放权重发布** — Stability AI开源三款音频生成模型，支持6分钟完整曲目生成并附带商用授权，直接对标Suno与ElevenLabs
+
+#### 🏗️ Agent与工具
+- **Google开源Agent Executor运行时** — Kubernetes原生长运行Agent引擎，支持百万级Agent并行、持久执行、安全隔离与轨迹分支
+- **Google Lighthouse新增llms.txt审计** — 在"Agentic Browsing"分类下检测网站是否提供机器可读摘要，不影响搜索排名但标记为Agent适配度指标
+
 ### 5月22日 AI日报
 
 #### 🤖 AI模型与产品
