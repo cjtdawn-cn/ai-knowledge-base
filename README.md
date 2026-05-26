@@ -12,9 +12,12 @@
 - **Anthropic $300亿融资即将完成** — $900B估值超越OpenAI，红杉/Dragoneer/Altimeter/Greenoaks联合领投约$80亿，Q2营收$10.9B（环比↑130%），首次实现季度盈利$559M
 - **教皇利奥十四世发布首份AI通谕《Magnifica Humanitas》** — 5月25日发布，主题为「在AI时代守护人类尊严」，Anthropic联创Christopher Olah出席发布仪式，面向全球14亿天主教徒的AI伦理声明
 - **OpenAI秘密提交IPO申请** — 估值$852B，目标9月上市，马斯克诉讼被驳回扫清障碍，高盛和摩根士丹利承销
+- **OpenAI用AI攻克长期数学难题** — [Forbes](https://www.forbes.com/sites/lanceeliot/2026/05/26/openais-breakthrough-on-famed-math-problem-actually-proves-that-using-ai-to-find-counterexamples-is-a-smart-strategy-for-everyone)报道，OpenAI通过AI寻找反例策略解决长期悬而未决的数学问题，证明AI辅助数学研究的巨大潜力
+- **Google AI搜索全面革新** — Google搜索彻底转型为对话式AI界面，集成意图理解、信息综合与行动组织功能，重塑SEO与信息获取方式
 
 #### 🛡️ 安全与基础设施
 - **AI黑客能力急剧提升引发行业安全危机** — 英国AI安全研究所(UK AISI)最新证据显示AI模型网络攻击能力大幅增强，从单模型风险升级为全行业安全问题
+- **华为宣布芯片制造突破** — 华为宣称可在5年内生产媲美台积电的尖端芯片（接近1.4nm），[Bloomberg](https://www.bloomberg.com/news/videos/2026-05-26/huawei-touts-chip-breakthrough-to-shorten-gap-with-tsmc-video)报道中国芯片股应声大涨
 - **Stable Audio 3.0开放权重发布** — Stability AI开源三款音频生成模型，支持6分钟完整曲目生成并附带商用授权，直接对标Suno与ElevenLabs
 
 #### 🏗️ Agent与工具
@@ -214,4 +217,6 @@
    146|
    147|---
    148|*本仓库由 Hermes Agent 自动维护 · 每日更新*
+
+> 💡 更多AI工具和教程 → [AI Toolkit Zone](https://cjtdawn-cn.github.io/ai-toolkit-zone/)
    149|
