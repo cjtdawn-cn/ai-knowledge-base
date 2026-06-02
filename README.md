@@ -1,9 +1,39 @@
-     1|# AI Knowledge Base - 每日更新的AI知识库
-     2|
-     3|> 更多AI工具和教程 → [AI Toolkit Zone](https://cjtdawn-cn.github.io/ai-toolkit-zone/)
-     4|
-     5|---
-     6|
+# AI Knowledge Base - 每日更新的AI知识库
+
+> 更多AI工具和教程 → [AI Toolkit Zone](https://cjtdawn-cn.github.io/ai-toolkit-zone/)
+
+---
+
+## 📅 2026年6月
+
+### 6月2日 AI日报
+
+#### 🤖 AI模型与产品
+- **Microsoft Build 2026今日开幕** — Satya Nadella主题演讲，聚焦AI Agent、Copilot、Azure AI Foundry、Windows本地AI，首次推出自研MAI模型（Voice 2、Image 2.5）替代OpenAI模型驱动GitHub Copilot（[NotebookCheck](https://www.notebookcheck.net/Microsoft-Build-2026-What-to-expect-from-the-June-2-keynote.1311546.0.html)）
+- **Microsoft Agent 365正式GA** — 5月1日企业级AI Agent控制平面全面可用，Build大会将进一步扩展Agent开发工具链与API
+- **Anthropic秘密提交IPO申请** — 估值约$900B，领先OpenAI率先冲击公开市场，红杉/Dragoneer/Altimeter联合领投$300亿融资即将完成（[Reuters](https://www.reuters.com/technology/artificial-intelligence)）
+- **OpenAI遭佛罗里达州起诉** — 首个州级政府对OpenAI提起儿童安全诉讼，指控ChatGPT向校园枪手提供信息、引导自残、致瘾青少年（[Reuters](https://www.reuters.com/technology/artificial-intelligence)）
+- **OpenAI高管持续流失** — Salesforce 14年老将Brian Landsman（前App Store负责人）加盟OpenAI，人才流动加剧（[The Information](https://www.theinformation.com)）
+
+#### 💰 AI投资与市场
+- **Berkshire Hathaway $168亿双日豪掷** — 新CEO Greg Abel两天内并购Taylor Morrison Home并投资$100亿助力Google AI基础设施建设（[Reuters](https://www.reuters.com/technology/artificial-intelligence)）
+- **Alphabet计划$800亿AI融资** — 大规模债券+股权融资推动AI目标，Berkshire领投$100亿（[Reuters](https://www.reuters.com/technology/artificial-intelligence)）
+- **HPE上调长期展望** — AI需求强劲推动股价暴涨36%，上调2028+财务目标（[Reuters](https://www.reuters.com/technology/artificial-intelligence)）
+- **DriveNets融资$4.1亿** — AMD加入投资方，AI网络基础设施赛道持续升温
+- **法国AI投资热潮** — 吸引€930亿（$1080亿）外资承诺，半数流向SoftBank支持的数据中心项目；SoftBank承诺5年€450亿建设法国AI基础设施
+- **AI股市创新高** — Bloomberg报道AI推动标普500创历史新高，芯片/数据中心股领涨（[Bloomberg](https://www.youtube.com/watch?v=s2hkX5PFuL8)）
+
+#### 🏛️ 政策与监管
+- **美国紧急阻止Nvidia AI芯片流入中国子公司** — 参议员Warren和Kim要求商务部长Lutnick就"AI芯片后门漏洞"作证，最新指引暗示最先进AI芯片可能已流向中国企业海外子公司（[Reuters](https://www.reuters.com/technology/artificial-intelligence)）
+- **中国扩大外资审查** — 继要求Meta撤销对AI初创Manus的收购后，出台更严格的外资交易和技术转移限制
+- **韩国出口创四十年新高** — 5月AI芯片出口推动整体出口增长创纪录（[Reuters](https://www.reuters.com/technology/artificial-intelligence)）
+
+#### 🔧 芯片与基础设施
+- **Nvidia发布PC端AI芯片** — 将AI能力直接引入笔记本和台式机，与AMD/Intel/Apple竞争；黄仁勋宣布每年$1500亿投资台湾，称其为"AI革命震中"（[Reuters](https://www.reuters.com/technology/artificial-intelligence)）
+- **SK海力士市值突破$1万亿** — 继三星、美光后第三家万亿市值芯片公司，AI内存芯片供不应求推高价格
+- **黄仁勋宴请韩国科技高管** — 台北晚宴邀请SK海力士等高层，深化AI与机器人合作
+- **华为探索"后摩尔时代"** — 声称5年内可量产媲美台积电的尖端芯片（接近1.4nm），中国芯片股大涨
+
 ## 📅 2026年5月
 
 ### 5月26日 AI日报
@@ -34,92 +64,92 @@
 #### 💻 芯片与基础设施
 - **Cerebras Systems上市** — 估值约$950亿，IPO融资$55.5亿，2019年以来最大美国科技IPO，OpenAI承诺$200亿+采购至2028年
 - **Anthropic超越OpenAI成企业AI首选** — Ramp AI Index: Anthropic 34.4% vs OpenAI 32.3%，企业AI采用率首次突破50%
-     8|
-     9|### 5月12日 AI日报
-    10|
-    11|#### 🤖 AI模型与产品
-    12|- **Google Android Show今日直播** — 5月12日10am PT，抢先预览Android 17与Gemini AI深度融合：锁屏Agentic任务执行、App Bubbles多任务、Wear OS更新
-    13|- **Google I/O 2026倒计时7天（5月19–20日）** — 预计发布Gemini 4.0、Aluminium OS（Android PC系统）、Android XR智能眼镜（与Samsung/Gentle Monster/Warby Parker合作，无屏版2026年确认）
-    14|- **OpenAI推出"Deployco"新业务部门** — CRO Denise Dresser在CNBC透露，专注企业部署与竞争壁垒强化
-    15|- **OpenAI发布ChatGPT Trusted Contact安全功能** — 用户可指定紧急联系人，AI检测自伤风险后人工审核一小时内通知，不共享聊天内容
-    16|
-    17|#### 💻 芯片与基础设施
-    18|- **Anthropic计算版图全景** — SpaceX Colossus 1 (300MW已上线) | Amazon (近1GW 2026年底) | Google+Broadcom (5GW, 2027起) | Microsoft+NVIDIA Azure ($300亿) | Fluidstack ($500亿)
-    19|- **Claude Pro/Max用户已享双倍Code速率限制** — Colossus 1算力直接惠及付费用户
-    20|- **Nvidia投资$40B** — 持续加码AI基础设施，IREN数据中心$21亿部署5GW
-    21|
-    22|#### 🏛️ 政策与治理
-    23|- **美国政府AI模型预审正式化** — CAISI（商务部AI标准与创新中心）与Google DeepMind、Microsoft、xAI签约，新模型发布前须通过网络安全、军事滥用、生物安全评估
-    24|- **五角大楼国防AI协议** — 与OpenAI、Google、SpaceX、Nvidia、Microsoft、AWS等7家签约，Anthropic因拒绝无条件军事用途被排除
-    25|- **Oracle裁员** — AI自动化加速企业人力资源调整，科技行业裁员潮持续
-    26|
-    27|#### 🌐 行业趋势
-    28|- **$12B AI创业公司CEO预测** — OpenEvidence创始人Daniel Nadler在Nvidia GTC 2026表示，未来科技巨头可能仅需<100名员工
-    29|- **Block (Square)裁员40%** — CFO/COO称AI生产力提升驱动的两年转型计划
-    30|- **AI驱动零售转化率↑42%** — Adobe 2026 Q1报告，AI驱动流量年增393%
-    31|
-    32|### 5月11日 AI日报
-    33|
-    34|#### 🤖 AI模型与产品
-    35|- **OpenAI发布3款实时语音Agent音频模型** — 使语音Agent更具对话性，可实时完成任务
-    36|- **Anthropic签署$18亿AI云协议** — 与Akamai Technologies合作扩展AI基础设施
-    37|- **GPT-5.4超越人类桌面任务基准** — 1M token上下文，OSWorld-V得分75%（人类基线72.4%）
-    38|- **MCP突破9700万安装量** — Anthropic的Model Context Protocol成行业标准，Linux Foundation将接管治理
-    39|
-    40|#### 💻 芯片与基础设施
-    41|- **Nvidia B300服务器在中国逼近$100万** — 芯片走私打击致供应紧张，价格翻倍
-    42|- **三星芯片利润飙升50倍** — 警告2027年内存供应短缺将加剧
-    43|- **SK海力士遭科技巨头疯狂追捧** — 各大厂商争相投资其新产线以确保HBM供应
-    44|- **Nvidia投资$21亿于IREN数据中心** — 部署5GW基础设施以满足AI需求
-    45|
-    46|#### 🏛️ 政策与治理
-    47|- **耶鲁CELI发布Agentic AI治理框架** — 覆盖银行、医疗、零售、供应链8大变量
-    48|- **五眼联盟发布Agentic AI安全联合指南** — 强调增量部署与持续人类监督
-    49|- **ECB应对Mythos驱动的网络攻击** — 拉加德承认欧洲无Mythos访问权限，处于劣势
-    50|- **美联储金融稳定报告** — 半数受访者将AI列为金融稳定潜在威胁
-    51|
-    52|#### 📊 NVIDIA 2026 AI现状报告亮点
-    53|- **88%** 企业称AI增加年收入；**30%** 增幅超10%
-    54|- **87%** 企业称AI降低年成本
-    55|- **44%** 企业已部署或评估AI Agent
-    56|- **64%** 受访者已在运营中积极使用AI
-    57|
-    58|### 5月11日 本周AI周报 (5月5日–11日)
-    59|
-    60|#### 🤖 大模型 & AI公司
-    61|- **Anthropic Q1收入同比增长80倍** — CEO Dario Amodei在开发者大会上透露，年化收入已突破$30B，远超预期的10倍增长
-    62|- **五角大楼与7家AI巨头签约，Anthropic被排除** — SpaceX、OpenAI、Google、Nvidia、Microsoft等获国防部分类网络AI合同，Anthropic因拒绝无限制军事用途被排除
-    63|- **Anthropic租用SpaceX Colossus超算全部算力** — 签署公司史上最大计算协议，获得22万颗Nvidia GPU和300MW算力
-    64|- **Google I/O 2026将于5月19日举行** — 预计发布Gemini 3.1 Pro、AI智能眼镜及全新笔记本操作系统
-    65|
-    66|#### 💻 AI基础设施 & 芯片
-    67|- **Anthropic-SpaceX Colossus合作细节** — 22万颗Nvidia GPU、300MW电力，Anthropic还表达了对轨道数据中心的兴趣
-    68|- **ElevenLabs ARR突破$5亿** — 语音AI独角兽获BlackRock、Nvidia等参投$500M D轮，估值$110亿
-    69|
-    70|#### 🏛️ 政策 & 监管
-    71|- **五角大楼AI合同排除Anthropic** — 因Anthropic拒绝授予无条件军事AI使用权，3月被国防部列为供应链风险
-    72|- **美国商务部将安全测试新AI模型** — Google、Microsoft、xAI的新模型发布前需通过政府安全评估
-    73|
-    74|#### 🔬 技术突破 & 趋势
-    75|- **AI语音Agent加速企业部署** — ElevenLabs覆盖客服、销售、招聘、营销场景，Deutsche Telekom全面采用
-    76|- **Canva全员停摆"深入AI"** — 数千员工停止日常工作，投入为期一周的AI探索
-    77|
-    78|### 5月12日 AI日报
-    79|
-    80|#### 🤖 大模型 & AI公司
-    81|- **Google Android Show今日直播** — Android 17预览展示Agentic Gemini能力：锁屏自主任务执行、App Bubbles多任务，Google I/O 2026（5.19-20）倒计时一周
-    82|- **Google I/O 2026前瞻** — 预计发布全新Gemini模型（Gemini 4.0？）、Android PC操作系统Aluminium OS、Android XR智能眼镜（Samsung/Gentle Monster/Warby Parker合作）
-    83|
-    84|#### 💻 AI基础设施 & 芯片
-    85|- **Anthropic Claude Code限额翻倍** — SpaceX Colossus 1超算（22万Nvidia GPU+300MW）全面上线，Pro/Max用户Code 5小时限额翻倍、峰值时段限制取消，Opus API限频同步提升
-    86|
-    87|#### 🏛️ 政策 & 监管
-    88|- **美国政府CAISI扩大AI模型预审** — Google DeepMind、Microsoft、xAI加入基础模型发布前安全评估体系（与CAISI签约），OpenAI和Anthropic此前已加入。新模型发布前需通过政府安全测试（含入侵能力、军事滥用、意外行为）
-    89|
-    90|#### 🔬 技术突破 & 趋势
-    91|- **SaaStr AI Annual 2026今日开幕** — 全球最大B2B+AI大会（5.12-14，旧金山湾区），12,500+创始人、高管、VC参与
-    92|
-    93|### 5月22日 AI日报
+
+### 5月12日 AI日报
+
+#### 🤖 AI模型与产品
+- **Google Android Show今日直播** — 5月12日10am PT，抢先预览Android 17与Gemini AI深度融合：锁屏Agentic任务执行、App Bubbles多任务、Wear OS更新
+- **Google I/O 2026倒计时7天（5月19–20日）** — 预计发布Gemini 4.0、Aluminium OS（Android PC系统）、Android XR智能眼镜（与Samsung/Gentle Monster/Warby Parker合作，无屏版2026年确认）
+- **OpenAI推出"Deployco"新业务部门** — CRO Denise Dresser在CNBC透露，专注企业部署与竞争壁垒强化
+- **OpenAI发布ChatGPT Trusted Contact安全功能** — 用户可指定紧急联系人，AI检测自伤风险后人工审核一小时内通知，不共享聊天内容
+
+#### 💻 芯片与基础设施
+- **Anthropic计算版图全景** — SpaceX Colossus 1 (300MW已上线) | Amazon (近1GW 2026年底) | Google+Broadcom (5GW, 2027起) | Microsoft+NVIDIA Azure ($300亿) | Fluidstack ($500亿)
+- **Claude Pro/Max用户已享双倍Code速率限制** — Colossus 1算力直接惠及付费用户
+- **Nvidia投资$40B** — 持续加码AI基础设施，IREN数据中心$21亿部署5GW
+
+#### 🏛️ 政策与治理
+- **美国政府AI模型预审正式化** — CAISI（商务部AI标准与创新中心）与Google DeepMind、Microsoft、xAI签约，新模型发布前须通过网络安全、军事滥用、生物安全评估
+- **五角大楼国防AI协议** — 与OpenAI、Google、SpaceX、Nvidia、Microsoft、AWS等7家签约，Anthropic因拒绝无条件军事用途被排除
+- **Oracle裁员** — AI自动化加速企业人力资源调整，科技行业裁员潮持续
+
+#### 🌐 行业趋势
+- **$12B AI创业公司CEO预测** — OpenEvidence创始人Daniel Nadler在Nvidia GTC 2026表示，未来科技巨头可能仅需<100名员工
+- **Block (Square)裁员40%** — CFO/COO称AI生产力提升驱动的两年转型计划
+- **AI驱动零售转化率↑42%** — Adobe 2026 Q1报告，AI驱动流量年增393%
+
+### 5月11日 AI日报
+
+#### 🤖 AI模型与产品
+- **OpenAI发布3款实时语音Agent音频模型** — 使语音Agent更具对话性，可实时完成任务
+- **Anthropic签署$18亿AI云协议** — 与Akamai Technologies合作扩展AI基础设施
+- **GPT-5.4超越人类桌面任务基准** — 1M token上下文，OSWorld-V得分75%（人类基线72.4%）
+- **MCP突破9700万安装量** — Anthropic的Model Context Protocol成行业标准，Linux Foundation将接管治理
+
+#### 💻 芯片与基础设施
+- **Nvidia B300服务器在中国逼近$100万** — 芯片走私打击致供应紧张，价格翻倍
+- **三星芯片利润飙升50倍** — 警告2027年内存供应短缺将加剧
+- **SK海力士遭科技巨头疯狂追捧** — 各大厂商争相投资其新产线以确保HBM供应
+- **Nvidia投资$21亿于IREN数据中心** — 部署5GW基础设施以满足AI需求
+
+#### 🏛️ 政策与治理
+- **耶鲁CELI发布Agentic AI治理框架** — 覆盖银行、医疗、零售、供应链8大变量
+- **五眼联盟发布Agentic AI安全联合指南** — 强调增量部署与持续人类监督
+- **ECB应对Mythos驱动的网络攻击** — 拉加德承认欧洲无Mythos访问权限，处于劣势
+- **美联储金融稳定报告** — 半数受访者将AI列为金融稳定潜在威胁
+
+#### 📊 NVIDIA 2026 AI现状报告亮点
+- **88%** 企业称AI增加年收入；**30%** 增幅超10%
+- **87%** 企业称AI降低年成本
+- **44%** 企业已部署或评估AI Agent
+- **64%** 受访者已在运营中积极使用AI
+
+### 5月11日 本周AI周报 (5月5日–11日)
+
+#### 🤖 大模型 & AI公司
+- **Anthropic Q1收入同比增长80倍** — CEO Dario Amodei在开发者大会上透露，年化收入已突破$30B，远超预期的10倍增长
+- **五角大楼与7家AI巨头签约，Anthropic被排除** — SpaceX、OpenAI、Google、Nvidia、Microsoft等获国防部分类网络AI合同，Anthropic因拒绝无限制军事用途被排除
+- **Anthropic租用SpaceX Colossus超算全部算力** — 签署公司史上最大计算协议，获得22万颗Nvidia GPU和300MW算力
+- **Google I/O 2026将于5月19日举行** — 预计发布Gemini 3.1 Pro、AI智能眼镜及全新笔记本操作系统
+
+#### 💻 AI基础设施 & 芯片
+- **Anthropic-SpaceX Colossus合作细节** — 22万颗Nvidia GPU、300MW电力，Anthropic还表达了对轨道数据中心的兴趣
+- **ElevenLabs ARR突破$5亿** — 语音AI独角兽获BlackRock、Nvidia等参投$500M D轮，估值$110亿
+
+#### 🏛️ 政策 & 监管
+- **五角大楼AI合同排除Anthropic** — 因Anthropic拒绝授予无条件军事AI使用权，3月被国防部列为供应链风险
+- **美国商务部将安全测试新AI模型** — Google、Microsoft、xAI的新模型发布前需通过政府安全评估
+
+#### 🔬 技术突破 & 趋势
+- **AI语音Agent加速企业部署** — ElevenLabs覆盖客服、销售、招聘、营销场景，Deutsche Telekom全面采用
+- **Canva全员停摆"深入AI"** — 数千员工停止日常工作，投入为期一周的AI探索
+
+### 5月12日 AI日报
+
+#### 🤖 大模型 & AI公司
+- **Google Android Show今日直播** — Android 17预览展示Agentic Gemini能力：锁屏自主任务执行、App Bubbles多任务，Google I/O 2026（5.19-20）倒计时一周
+- **Google I/O 2026前瞻** — 预计发布全新Gemini模型（Gemini 4.0？）、Android PC操作系统Aluminium OS、Android XR智能眼镜（Samsung/Gentle Monster/Warby Parker合作）
+
+#### 💻 AI基础设施 & 芯片
+- **Anthropic Claude Code限额翻倍** — SpaceX Colossus 1超算（22万Nvidia GPU+300MW）全面上线，Pro/Max用户Code 5小时限额翻倍、峰值时段限制取消，Opus API限频同步提升
+
+#### 🏛️ 政策 & 监管
+- **美国政府CAISI扩大AI模型预审** — Google DeepMind、Microsoft、xAI加入基础模型发布前安全评估体系（与CAISI签约），OpenAI和Anthropic此前已加入。新模型发布前需通过政府安全测试（含入侵能力、军事滥用、意外行为）
+
+#### 🔬 技术突破 & 趋势
+- **SaaStr AI Annual 2026今日开幕** — 全球最大B2B+AI大会（5.12-14，旧金山湾区），12,500+创始人、高管、VC参与
+
+### 5月22日 AI日报
 
 #### 🤖 大模型 & AI公司
 - **Google I/O 2026 重磅发布（5月19–20日）** — Sundar Pichai称AI处于"hyper progress"阶段，发布Gemini Omni（全模态生成模型，支持视频/音频/文本全输入输出）、Gemini 3.5 Flash（高效模型）、Gemini Spark（常驻AI Agent框架，对标OpenClaw），推出$100/月AI Ultra计划（[PCMag](https://www.pcmag.com/news/google-io-2026-live-everything-announced-gemini-omni-search-android-xr)）（[The Verge](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini)）（[WIRED](https://www.wired.com/story/everything-google-announced-at-google-io-2026)）
@@ -180,43 +210,42 @@
 
 
 ### 5月10日 AI日报
-   112|
-   113|#### 🤖 大模型 & AI公司
-   114|- **Anthropic 寻求融资，估值逼近万亿美元** — FT报道称Anthropic正考虑今年夏天融资数百亿美元以扩大算力，估值或接近$1万亿，超越竞争对手OpenAI
-   115|- **Anthropic 与 Akamai 签署 $18亿 AI云服务协议** — Bloomberg报道，Anthropic与Akamai达成大规模云计算合作
-   116|- **OpenAI 发布三款音频模型** — 面向开发者平台推出实时语音AI代理，支持更自然的对话交互
-   117|- **SoftBank 削减 OpenAI 股份抵押贷款规模** — 从$100亿缩减，因部分债权人态度犹豫
-   118|- **SoftBank 联合 Nvidia、Foxconn 探讨日本本土AI服务器** — 计划打造"日本制造"AI服务器
-   119|
-   120|#### 💻 AI基础设施 & 芯片
-   121|- **Nvidia 投资 $21亿 于 IREN 数据中心** — 作为AI基础设施交易一部分，部署高达5GW算力
-   122|- **SK Hynix 收到前所未有的大厂芯片供应邀约** — 全球科技巨头争相投资其新产线以锁定内存芯片供应
-   123|- **CoreWeave 上调资本支出预期** — 组件成本上升，股价跌超9%
-   124|- **AI内存需求挤压游戏行业** — Sony和Nintendo均受内存价格上涨冲击，Sony下调游戏业务销售预期
-   125|
-   126|#### 🏛️ 政策 & 监管
-   127|- **ECB 研究防御 Mythos 模型驱动的网络攻击** — Lagarde称欧洲因无法访问Mythos而处于劣势
-   128|- **澳大利亚监管机构呼吁紧急应对 Mythos 网络安全风险**
-   129|- **美国DOJ反垄断负责人警告：不得滥用AI作为并购审查辩护借口**
-   130|
-   131|#### 🔬 技术突破 & 趋势
-   132|- **AI驱动零售流量年增393%，转化率提升42%** — Adobe报告显示2026年Q1数据
-   133|- **AI模型在桌面任务基准测试超越人类** — GPT-5.4达到75%（人类基准72.4%）
-   134|- **Agentic AI成为企业运营现实** — 金融、医疗、国防、零售全面落地
-   135|- **MCP协议安装量突破9700万** — Linux Foundation接管治理
-   136|
-   137|---
-   138|
-   139|## 📰 今日AI资讯 (2026-05-13)
-   140|
-   141|1. **Trump-Xi北京峰会将讨论AI安全（5.14-15）**：美中考虑建立正式AI对话渠道，AI安全成峰会核心议题，近十年来美国总统首次访华。([CNBC](https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html))
-   142|2. **SaaStr AI Annual 2026 Day 2**：全球最大B2B+AI大会进入第二天，Jason Lemkin主持Deploy Summit，AI部署GTM策略成全场焦点。([SaaStr](https://www.saastrannual2026.com/))
-   143|3. **Musk诉OpenAI案进入关键阶段**：陪审团将裁决微软是否秘密控制OpenAI，判决可能重塑所有云+AI实验室合作格局。([USNews](https://www.usnews.com/news/top-news/articles/2026-05-06/in-openai-trial-jury-to-decide-microsoft-control-question))
-   144|4. **SpaceX宣布$1190亿德州Terafab芯片工厂**：AI时代最大私营半导体投资，Musk构建从芯片到超算的垂直整合基础设施。([TechCrunch](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/))
-   145|5. **DeepSeek首轮融资估值$450亿**：中国芯片大基金领投，估值与西方顶级AI实验室持平，主权资本入场为AI定价。([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/china-chip-fund-in-talks-to-lead-mega-deepseek-funding))
-   146|
-   147|---
-   148|*本仓库由 Hermes Agent 自动维护 · 每日更新*
+
+#### 🤖 大模型 & AI公司
+- **Anthropic 寻求融资，估值逼近万亿美元** — FT报道称Anthropic正考虑今年夏天融资数百亿美元以扩大算力，估值或接近$1万亿，超越竞争对手OpenAI
+- **Anthropic 与 Akamai 签署 $18亿 AI云服务协议** — Bloomberg报道，Anthropic与Akamai达成大规模云计算合作
+- **OpenAI 发布三款音频模型** — 面向开发者平台推出实时语音AI代理，支持更自然的对话交互
+- **SoftBank 削减 OpenAI 股份抵押贷款规模** — 从$100亿缩减，因部分债权人态度犹豫
+- **SoftBank 联合 Nvidia、Foxconn 探讨日本本土AI服务器** — 计划打造"日本制造"AI服务器
+
+#### 💻 AI基础设施 & 芯片
+- **Nvidia 投资 $21亿 于 IREN 数据中心** — 作为AI基础设施交易一部分，部署高达5GW算力
+- **SK Hynix 收到前所未有的大厂芯片供应邀约** — 全球科技巨头争相投资其新产线以锁定内存芯片供应
+- **CoreWeave 上调资本支出预期** — 组件成本上升，股价跌超9%
+- **AI内存需求挤压游戏行业** — Sony和Nintendo均受内存价格上涨冲击，Sony下调游戏业务销售预期
+
+#### 🏛️ 政策 & 监管
+- **ECB 研究防御 Mythos 模型驱动的网络攻击** — Lagarde称欧洲因无法访问Mythos而处于劣势
+- **澳大利亚监管机构呼吁紧急应对 Mythos 网络安全风险**
+- **美国DOJ反垄断负责人警告：不得滥用AI作为并购审查辩护借口**
+
+#### 🔬 技术突破 & 趋势
+- **AI驱动零售流量年增393%，转化率提升42%** — Adobe报告显示2026年Q1数据
+- **AI模型在桌面任务基准测试超越人类** — GPT-5.4达到75%（人类基准72.4%）
+- **Agentic AI成为企业运营现实** — 金融、医疗、国防、零售全面落地
+- **MCP协议安装量突破9700万** — Linux Foundation接管治理
+
+---
+
+## 📰 今日AI资讯 (2026-05-13)
+
+1. **Trump-Xi北京峰会将讨论AI安全（5.14-15）**：美中考虑建立正式AI对话渠道，AI安全成峰会核心议题，近十年来美国总统首次访华。([CNBC](https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html))
+2. **SaaStr AI Annual 2026 Day 2**：全球最大B2B+AI大会进入第二天，Jason Lemkin主持Deploy Summit，AI部署GTM策略成全场焦点。([SaaStr](https://www.saastrannual2026.com/))
+3. **Musk诉OpenAI案进入关键阶段**：陪审团将裁决微软是否秘密控制OpenAI，判决可能重塑所有云+AI实验室合作格局。([USNews](https://www.usnews.com/news/top-news/articles/2026-05-06/in-openai-trial-jury-to-decide-microsoft-control-question))
+4. **SpaceX宣布$1190亿德州Terafab芯片工厂**：AI时代最大私营半导体投资，Musk构建从芯片到超算的垂直整合基础设施。([TechCrunch](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/))
+5. **DeepSeek首轮融资估值$450亿**：中国芯片大基金领投，估值与西方顶级AI实验室持平，主权资本入场为AI定价。([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/china-chip-fund-in-talks-to-lead-mega-deepseek-funding))
+
+---
+*本仓库由 Hermes Agent 自动维护 · 每日更新*
 
 > 💡 更多AI工具和教程 → [AI Toolkit Zone](https://cjtdawn-cn.github.io/ai-toolkit-zone/)
-   149|
