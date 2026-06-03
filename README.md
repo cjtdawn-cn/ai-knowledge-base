@@ -6,6 +6,34 @@
 
 ## 📅 2026年6月
 
+### 6月3日 AI日报
+
+#### 🤖 AI模型与产品
+- **Microsoft Build 2026次日** — Satya Nadella主题演讲后续：MAI模型（Voice 2、Image 2.5）正式驱动GitHub Copilot，Agent 365企业AI Agent控制平面全面开放，Windows本地AI Runtime发布（[NotebookCheck](https://www.notebookcheck.net/Microsoft-Build-2026-What-to-expect-from-the-June-2-keynote.1311546.0.html)）
+- **Anthropic估值突破$965B** — AI Intelligence Briefing周报确认Anthropic估值飙升至$965B，创私有AI公司估值新纪录，$300亿融资轮即将完成（[Medium/AI Briefing](https://medium.com/@diwakar-dayalan/the-valuation-that-broke-the-scale-ai-intelligence-briefing-week-of-june-3-2026-9e95d1852b5d)）
+- **Trump呼吁AI公司向美国政府提交模型** — 要求AI公司主动提交模型供政府审查，AI安全与监管持续升温（[ABC News](https://www.youtube.com/watch?v=dqhOpYd0k_I)）
+- **Google AI搜索全面开放** — AI Mode扩展到近200个国家/地区、98种语言，无需订阅；Personal Intelligence功能免费开放（[Google Blog](https://blog.google/products-and-platforms/products/search/search-io-2026)）
+- **GSA AI Symposium今日开幕** — 美国政府加速生成式AI采用策略，聚焦联邦机构AI部署（[GSA](https://x.com/USGSA/status/2061847031765774363)）
+- **斯坦福HAI发布2026 AI Index报告** — 全面评估全球AI技术进展、经济影响、政策治理与公众舆论（[Stanford HAI](https://hai.stanford.edu/ai-index/2026-ai-index-report)）
+- **OpenAI高管团队持续洗牌** — Salesforce老将Brian Landsman加盟，人才流动加速（[The Information](https://www.theinformation.com)）
+
+#### 💰 AI投资与市场
+- **Alphabet $800亿AI融资推进中** — 大规模债券+股权融资，Berkshire Hathaway领投$100亿（[Reuters](https://www.reuters.com/technology/artificial-intelligence)）
+- **Cramer建议投资者减仓AI科技巨头** — CNBC Mad Money主持人警告AI估值泡沫风险（[CNBC](https://www.cnbc.com/video/2026/06/02/tuesday-june-2-2026-cramer-says-investors-should-take-some-profits-in-this-ai-tech-giant.html)）
+- **Forbes发布2026 AI 50榜单** — 评选最具潜力的50家AI初创公司，AI商业化进入验证阶段
+- **HPE AI业务飙升36%** — AI服务器需求推动股价创历史新高
+
+#### 🏛️ 政策与监管
+- **AI安全审查机制深化** — CAISI（商务部AI标准与创新中心）扩大预审范围，Google DeepMind、Microsoft、xAI新模型发布前须通过安全评估
+- **美国参议员追查Nvidia AI芯片后门漏洞** — Warren和Kim要求商务部就最先进AI芯片流向中国企业海外子公司作证
+- **EU AI Act高风险规则推迟至2027年12月** — 企业获得16个月合规缓冲期
+
+#### 🔧 芯片与基础设施
+- **Nvidia PC端AI芯片正式亮相** — 将AI能力直接引入笔记本和台式机，与AMD/Intel/Apple正面竞争
+- **黄仁勋宣布年投$1500亿台湾** — 称台湾为AI革命震中，深化供应链布局
+- **SK海力士市值突破$1万亿** — 继三星、美光后第三家万亿市值芯片公司，HBM供不应求
+- **韩国5月AI芯片出口创40年新高** — 出口增长创历史纪录，AI芯片驱动经济转型
+
 ### 6月2日 AI日报
 
 #### 🤖 AI模型与产品
