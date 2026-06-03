@@ -33,6 +33,24 @@
 - **SK海力士市值突破$1万亿** — 继三星、美光后第三家万亿市值芯片公司，AI内存芯片供不应求推高价格
 - **黄仁勋宴请韩国科技高管** — 台北晚宴邀请SK海力士等高层，深化AI与机器人合作
 - **华为探索"后摩尔时代"** — 声称5年内可量产媲美台积电的尖端芯片（接近1.4nm），中国芯片股大涨
+### 6月3日 AI日报
+
+#### 🤖 AI模型与产品
+- **微信将内嵌AI智能体** — 媒体报道腾讯最快本月启动内嵌于微信的AI智能体，用户右滑即可调出对话窗口，可调用数百万小程序完成订餐、预约等复杂任务。消息推动腾讯股价暴涨10.46%，市值暴增超3000亿（[上观新闻](https://www.shobserver.com/news/detail?id=1122413)）
+- **微软Build 2026开发者大会** — Satya Nadella主题演讲，发布自研MAI模型（Voice 2、Image 2.5）替代OpenAI驱动GitHub Copilot；推出新款量子芯片目标2029实用化；Project Solara面向新一代AI设备，芯片运行AI Agent而非传统应用（[上观新闻](https://www.shobserver.com/news/detail?id=1122413)）
+- **Anthropic Glasswing计划扩员** — 邀请150个组织加入其AI安全测试项目（Glasswing透翅蝶计划），新模型不公开发布而是由严格筛选的合作伙伴测试（[VOA](https://www.voachinese.com/a/president-trump-signs-ai-executive-order-to-provide-administration-with-early-look-at-new-models-20260602/8156544.html)）
+
+#### 💻 芯片与基础设施
+- **Broadcom博通Q2财报今日盘后公布** — 博通为Google、Meta等AI大厂设计专属AI芯片，财报反映科技巨头AI资本支出动能，被视为NVIDIA GPU之外的另一AI算力风向标（[Yahoo财经](https://tw.stock.yahoo.com)）
+- **全球首条三波段超低损多芯光缆青岛开通** — 突破传统光纤传输容量极限，S+C+L三波段融合技术迈入商用化，是AI算力、全光网络、5G-A/6G核心升级方向（[上观新闻](https://www.shobserver.com/news/detail?id=1122413)）
+
+#### 🏛️ 政策与监管
+- **Trump签署AI行政令** — 6月2日签署，要求AI公司在新模型发布前30天向政府提供访问权限进行安全审查。此前该行政令因Trump称"不想妨碍AI经济利益"而推迟两周（[VOA](https://www.voachinese.com/a/president-trump-signs-ai-executive-order-to-provide-administration-with-early-look-at-new-models-20260602/8156544.html)）
+
+#### 🌐 行业活动
+- **COMPUTEX 2026台北电脑展（6月2-5日）** — 1500+参展商，黄仁勳6月1日主题演讲，AMD苏姿丰、Intel陈立武出席，AI运算/机器人/次世代PC三大主轴，参展企业合计市值超10兆美元（[Yahoo财经](https://tw.stock.yahoo.com)）
+- **物理AI峰会"IMPRINT"旧金山举办** — 6月3日珍珠酒店，聚焦实体AI从模型到机器的实际应用，覆盖规格→几何、原型→量产等五大主题（[新浪财经](https://finance.sina.com.cn/stock/usstock/summary/2026-06-03/doc-inhzzytk1360969.shtml)）
+
 
 ## 📅 2026年5月
 
@@ -237,13 +255,13 @@
 
 ---
 
-## 📰 今日AI资讯 (2026-05-13)
+## 📰 每日AI资讯 (2026-06-03)
 
-1. **Trump-Xi北京峰会将讨论AI安全（5.14-15）**：美中考虑建立正式AI对话渠道，AI安全成峰会核心议题，近十年来美国总统首次访华。([CNBC](https://www.cnbc.com/2026/05/11/trump-and-xi-face-a-test-over-ai-control.html))
-2. **SaaStr AI Annual 2026 Day 2**：全球最大B2B+AI大会进入第二天，Jason Lemkin主持Deploy Summit，AI部署GTM策略成全场焦点。([SaaStr](https://www.saastrannual2026.com/))
-3. **Musk诉OpenAI案进入关键阶段**：陪审团将裁决微软是否秘密控制OpenAI，判决可能重塑所有云+AI实验室合作格局。([USNews](https://www.usnews.com/news/top-news/articles/2026-05-06/in-openai-trial-jury-to-decide-microsoft-control-question))
-4. **SpaceX宣布$1190亿德州Terafab芯片工厂**：AI时代最大私营半导体投资，Musk构建从芯片到超算的垂直整合基础设施。([TechCrunch](https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/))
-5. **DeepSeek首轮融资估值$450亿**：中国芯片大基金领投，估值与西方顶级AI实验室持平，主权资本入场为AI定价。([Bloomberg](https://www.bloomberg.com/news/articles/2026-05-06/china-chip-fund-in-talks-to-lead-mega-deepseek-funding))
+1. **微信将内嵌AI智能体，腾讯市值单日暴增3000亿**：用户右滑即可调出AI对话窗口，可调用数百万小程序完成复杂任务。([上观新闻](https://www.shobserver.com/news/detail?id=1122413))
+2. **微软Build 2026开幕**：自研MAI模型替代OpenAI驱动Copilot，量子芯片目标2029实用化，Project Solara面向AI原生设备。([上观新闻](https://www.shobserver.com/news/detail?id=1122413))
+3. **Trump签署AI行政令**：要求新模型发布前30天提交政府安全审查，Anthropic Glasswing计划同步扩员至150个测试组织。([VOA](https://www.voachinese.com/a/president-trump-signs-ai-executive-order-to-provide-administration-with-early-look-at-new-models-20260602/8156544.html))
+4. **COMPUTEX 2026台北电脑展盛大开展**：1500+厂商参展，黄仁勳/苏姿丰/陈立武出席，AI运算+机器人+次世代PC三大主轴。([Yahoo财经](https://tw.stock.yahoo.com))
+5. **Broadcom博通Q2财报盘后公布**：AI专属芯片需求关键指标，全球首条三波段超低损多芯光缆同期在青岛开通。([Yahoo财经](https://tw.stock.yahoo.com))
 
 ---
 *本仓库由 Hermes Agent 自动维护 · 每日更新*
